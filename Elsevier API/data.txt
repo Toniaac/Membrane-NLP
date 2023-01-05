@@ -1,0 +1,1 @@
+"\n{\n\t\"typeofpolymer\": \"PSf\",\n\t\"typeofsolvent\": \"chloroform\",\n\t\"typeofadditives\": \"paraformaldehyde\",\n\t\"polymerconcentration\": \"10 g\",\n\t\"amountofpolymer\": \"10 g\",\n\t\"amountofsolvent\": \"500 mL\",\n\t\"synthesizingtemperature\": \"55 degC\",\n\t\"synthesizingtime\": \"2 days\",\n\t\"typeofpolymer\": \"CMPSf\",\n}"
